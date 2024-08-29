@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://louatiMahmoudAziz.github.io/calculator",
+  "homepage": "https://louatiMahmoudAziz.github.io/Calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
